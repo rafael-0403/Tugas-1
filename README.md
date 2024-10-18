@@ -1,13 +1,12 @@
+# tugas1_healthapp
+A new Flutter project.
+
 ![alt text](https://github.com/rafael-0403/Tugas-1/blob/main/assets/homepage_healthyapp.png)
 ![alt text](https://github.com/rafael-0403/Tugas-1/blob/main/assets/sidebar.png)
 ![alt text](https://github.com/rafael-0403/Tugas-1/blob/main/assets/food%20list_healthyapp.png)
 ![alt text](https://github.com/rafael-0403/Tugas-1/blob/main/assets/foodlog_healthyapp.png)
 ![alt text](https://github.com/rafael-0403/Tugas-1/blob/main/assets/healthynews.png)
 ![alt text](https://github.com/rafael-0403/Tugas-1/blob/main/assets/profile.png)
-
-# tugas1_healthapp
-
-A new Flutter project.
 
 ## Getting Started
 
